@@ -1,0 +1,50 @@
+* {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+
+#header {
+    margin: 0;
+    padding: 0;
+    height: 5%;
+    background: #8d99ae;
+}
+
+#footer {
+    margin: 0;
+    padding: 0;
+    height: 5%;
+    background: #8d99ae;
+}
+
+#body {
+    height: 90%;
+    background: #edf2f4;
+}
+
+#image_map_container {
+    height: 100%;   
+}
+
+#main_image {
+    margin: 5% 25%;
+}
+
+#capybara {
+    height: 30px;
+}
+
+#capy_button {
+    z-index: 5;
+    height: 100px;
+    position: relative;
+    bottom: -27px;
+    left: 1722px;
+}
+
